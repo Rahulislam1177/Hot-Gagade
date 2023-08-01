@@ -18,7 +18,43 @@
       
           
         }
+        .ppbutton:hover {
+background-color: #ffb526 !important;
+border-color: #ffb526;
+        }
         .carousel-indicators .active {
             width: 50px !important;
        
+            /* phone produkt start */
         }   
+
+        .phone-see-all {
+            text-decoration: none;
+            color: #ffb526;
+        }
+        .span {
+            display: block;
+            height: 5px;
+            width: 150px;
+            margin: auto;
+            border-radius: 5px;
+            background-color: orange;
+        }
+        .photos-2 {
+            max-width: 100%;
+        }
+        .common {
+            box-sizing: content-box;
+        }
+        span {
+            display: block;
+            height: 5px;
+            width: 150px;
+            margin: auto;
+            border-radius: 5px;
+            background-color: orange;
+        }
+        
+        .category {
+            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        }
