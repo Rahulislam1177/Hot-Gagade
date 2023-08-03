@@ -58,3 +58,23 @@ border-color: #ffb526;
         .category {
             box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         }
+        .navbar-112 {
+            width: 100px;
+        }
+        .footer-color {
+            background-color:#dee1e6;
+        }
+        .a-ili {
+            text-decoration: none;
+            color:black;
+            list-style: none;
+        }
+        .a-ili1{
+            text-decoration: none;
+            color:black;   
+        }
+        .a-ili1:hover {
+         color:#ffa032;
+         text-decoration: underline;
+         transition: all 0.3s;
+        }
